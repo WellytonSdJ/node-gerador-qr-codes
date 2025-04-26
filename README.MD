@@ -20,3 +20,6 @@ depois baixei o a biblioteca `chalk` para estilizar o retorno, e utilizo isso no
 
 criando qr-code
 baixo a biblioteca `QRCode-terminal`
+
+
+![Arquitecture](image.png)
