@@ -5,9 +5,9 @@ A ideia geral é de aplciar conceitos de lógica de programação além de estru
 
 ## REGRAS:
 
-- [] A aplicação é executada no terminal onde serão inputados os dados.
+- [x] A aplicação é executada no terminal onde serão inputados os dados.
 
-- [] O usuário poderá escolher entre criar  QR code ou criar senhas
+- [x] O usuário poderá escolher entre criar  QR code ou criar senhas
 
 
 ---

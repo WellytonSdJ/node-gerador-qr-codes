@@ -1,6 +1,6 @@
 import chalk from "chalk"
 
-const promptMain = [
+const promptSchemaMain = [
   {
     name: "select",
     description: chalk.yellow.bold(
@@ -12,4 +12,4 @@ const promptMain = [
   }
 ]
 
-export default promptMain
+export default promptSchemaMain
